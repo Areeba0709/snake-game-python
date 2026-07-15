@@ -54,24 +54,23 @@ python snake_game.py
 
 ### Home Screen
 
-![Home Screen](Home.png)
+![Home Screen](Home-.png)
 
 ### Main Menu
 
-![Main Menu](Main%20Menu.png)
+![Main Menu](Main%20Menue.png)
 
 ### Gameplay
 
 ![Gameplay](Play.png)
 
-### High Scores
-
-![High Scores](High%20Scores.png)
-
 ### Game Over
 
 ![Game Over](Game%20Over.png)
 
+### High Scores
+
+![High Scores](High%20Scores.png)
 ## Controls
 
 - **Arrow Keys** – Move the snake
