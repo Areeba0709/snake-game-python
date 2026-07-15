@@ -54,7 +54,7 @@ python snake_game.py
 
 ### Home Screen
 
-![Home Screen](Home-.png)
+![Home Screen](Home..png)
 
 ### Main Menu
 
